@@ -1,0 +1,62 @@
+# .gitignore
+# Author: Matthew Penner <me@matthewp.io> (https://matthewp.io)
+# Last Modified: 6/16/2018 4:00PM
+
+#-------------------
+# IDEs & Workspaces  
+#-------------------
+
+# Jetbrains IDEs
+/.idea
+*.iml
+*.ipr
+*.iws
+
+# Visual Studio Code
+/.vscode
+
+# Sublime
+*.sublime-*
+
+#-------------------
+# Languages
+#-------------------
+
+# Java
+/target
+dependency-reduced-pom.xml
+
+# NodeJS
+/node_modules
+yarn-error.log
+npm-debug.log
+
+# PHP
+/vendor
+.php_cs.cache
+
+# Python
+*.pyc
+
+#-------------------
+# Misc
+#-------------------
+settings.php
+
+#-------------------
+# Operating Systems
+#-------------------
+
+# External Drives
+.Spotlight-V100
+.Trashes
+
+# Mac OS
+/.DS_Store
+*.DS_Store
+
+# Linux
+*~
+
+# VIM
+.*.sw[a-p]

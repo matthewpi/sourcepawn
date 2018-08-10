@@ -1,0 +1,16 @@
+"Phrases"
+{
+	"Alert"
+	{
+		"#format" "{1:s}, {2:s}"
+		
+		"en" "\x07(Alert): \x06{1}\x01: {2}"
+	}
+	
+	"Alert_Middle"
+	{
+		"#format" "{1:s}, {2:s}"
+		
+		"en" "{1}: {2}"
+	}
+}

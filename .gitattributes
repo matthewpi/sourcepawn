@@ -1,0 +1,9 @@
+# .gitattributes
+# Author: Matthew Penner <me@matthewp.io> (https://matthewp.io)
+# Last Modified: 8/9/2018 6:00PM
+
+# Properly display file syntax formatting and highlighting for GitHub.
+* text=auto
+
+# Sourcepawn Formatting
+*.sp gitlab-language=cpp
